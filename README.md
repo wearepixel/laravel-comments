@@ -1,7 +1,9 @@
 # Add comments to your Laravel application
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/beyondcode/laravel-comments.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-comments)
-[![Total Downloads](https://img.shields.io/packagist/dt/beyondcode/laravel-comments.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-comments)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/wearepixel/laravel-comments.svg?style=flat-square)](https://packagist.org/packages/wearepixel/laravel-comments)
+[![Total Downloads](https://img.shields.io/packagist/dt/wearepixel/laravel-comments.svg?style=flat-square)](https://packagist.org/packages/wearepixel/laravel-comments)
+
+> **Maintained fork** - This is a fork of [beyondcode/laravel-comments](https://github.com/beyondcode/laravel-comments) maintained by [Pixel](https://wearepixel.com.au). We forked this package to keep it up to date with newer versions of Laravel. Full credit to the original author [Marcel Pociot](https://github.com/mpociot).
 
 Add the ability to associate comments to your Laravel Eloquent models. The comments can be approved and nested.
 
@@ -175,8 +177,8 @@ If you discover any security related issues, please email marcel@beyondco.de ins
 
 ## Credits
 
--   [Marcel Pociot](https://github.com/mpociot)
--   [All Contributors](../../contributors)
+- [Marcel Pociot](https://github.com/mpociot)
+- [All Contributors](../../contributors)
 
 ## License
 
